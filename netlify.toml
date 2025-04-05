@@ -1,0 +1,7 @@
+[build.environment]
+  TZ="Australia/Sydney"
+
+[[redirects]]
+  from = "/gig-newsletter"
+  to = "https://mailchi.mp/175d7e5e5837/cupholder-industries-newsletter"
+  status = 301
